@@ -7,7 +7,7 @@ lastmod: 2024-07-30
 draft: false
 weight: 50
 ---
-{{< callout context="caution" title="Caution" icon="outline/alert-triangle" >}}
+{{< callout type="warning" >}}
 The caching feature in Fubuki is currently under development. As such, it may not function as expected and could contain bugs or incomplete features. Use it with caution in production environments and report any issues you encounter to help improve the implementation.
 {{< /callout >}}
 ## Overview

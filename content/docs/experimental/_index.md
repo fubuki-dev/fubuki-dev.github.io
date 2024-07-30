@@ -15,6 +15,6 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-{{< callout context="caution" title="Caution" icon="outline/alert-triangle" >}}
+{{< callout type="warning" >}}
 Features in this category are treated as experimental. To avoid problems, they should not be used in a production environment.
 {{< /callout >}}
